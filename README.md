@@ -20,5 +20,6 @@ bash ./scripts/long_term_forecast/ETT_script/LSTM_ETTh1_unify.sh
 bash ./scripts/long_term_forecast/ETT_script/OurModel_ETTh1_unify.sh
 bash ./scripts/long_term_forecast/ETT_script/OurModel_ETTh2_unify.sh
 bash ./scripts/long_term_forecast/ETT_script/OurModel_ETTm1_unify.sh
+bash ./scripts/long_term_forecast/ETT_script/OurModel_ETTm2_unify.sh
 bash ./scripts/long_term_forecast/ETT_script/SVM_ETTh1.sh
 ```
