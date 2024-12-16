@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split, TimeSeriesSplit
 import matplotlib.pyplot as plt
 
-data_path = r'./dataset/ETT-small/ETTh2.csv'
+data_path = r'./dataset/ETT-small/ETTh1.csv'
 df = pd.read_csv(data_path, parse_dates=['date'], index_col='date')
 
 if not df.index.is_monotonic_increasing:
